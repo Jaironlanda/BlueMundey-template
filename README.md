@@ -1,4 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+![BlueMundey Template](/screenshot/brand.png)
+
+## Demo
+
+### Sign In
+![SignIn](/screenshot/ss-signin.png)
+
+### Sign Up
+![SignIn](/screenshot/ss-signup.png)
+
+### Verify Account
+![Verify](/screenshot/ss-verify.png)
+
+### Reset Password
+![Verify](/screenshot/ss-reset-password.png)
+
+## To Do List
+- Sign In ✅
+- Sign Up ✅
+- Verify Account ✅
+- Reset Password ✅
+- Dashboard 🚧
+- User Account 🚧
+- Landing Page 🚧
 
 ## Getting Started
 
