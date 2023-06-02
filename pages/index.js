@@ -1,6 +1,14 @@
+import ComingSoon from "@/components/CommingSoon";
+import Content from "@/components/Content";
+import NavBar from "@/components/NavBar";
 
 export default function Home() {
   return (
-    <><button className="btn">Button</button></>
+    <>
+       <NavBar />
+       <ComingSoon />
+       <Content />
+    </>
+   
   )
 }
